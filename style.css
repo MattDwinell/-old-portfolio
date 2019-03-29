@@ -108,8 +108,11 @@ h2 {
     text-align: center;
     padding: 10px 0px 10px 0px;
     background-color:#4aaaa5;
-    color:beige;
-    opacity:.7;
+    color:yellow;
+    opacity:.75;
+}
+#hangman{
+    color:yellow;
 }
 .i1{
     position:absolute;
