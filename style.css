@@ -9,7 +9,7 @@ body{
     border-style:border-box;
 }
 html{
-    background-image: url("pipes.png")
+    background-image: url("images/pipes.png")
    /* background-color: #cccccc; */
 }
 ul{
@@ -109,9 +109,9 @@ h2 {
     padding: 10px 0px 10px 0px;
     background-color:#4aaaa5;
     color:yellow;
-    opacity:.75;
+    opacity:.85;
 }
-#hangman, #crystalcollector{
+#hangman, #crystalcollector, #starwarsrpg{
     color:yellow;
 }
 .i1{
